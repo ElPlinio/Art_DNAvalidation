@@ -1,0 +1,13 @@
+sample-id	metodo	edad	estructura	edad-metodo	estructura-metodo	Individuo
+Fe1	fenol	joven	plasmodio	fenol-joven	plasmodiofenol	P1
+Fe2	fenol	joven	plasmodio	fenol-joven	plasmodiofenol	P2
+Fe3	fenol	joven	plasmodio	fenol-joven	plasmodiofenol	P3
+Fe4	fenol	joven	plasmodio	fenol-joven	plasmodiofenol	P4
+Fe5	fenol	joven	plasmodio	fenol-joven	plasmodiofenol	P5
+Fe6	fenol	joven	plasmodio	fenol-joven	plasmodiofenol	P6
+Q1	kit	joven	plasmodio	kit-joven	plasmodiokit	P1
+Q2	kit	joven	plasmodio	kit-joven	plasmodiokit	P2
+Q3	kit	joven	plasmodio	kit-joven	plasmodiokit	P3
+Q4	kit	joven	plasmodio	kit-joven	plasmodiokit	P4
+Q5	kit	joven	plasmodio	kit-joven	plasmodiokit	P5
+Q6	kit	joven	plasmodio	kit-joven	plasmodiokit	P6
