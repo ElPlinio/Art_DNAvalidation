@@ -18,7 +18,7 @@ See [`README_bioinformatics.md`](README_bioinformatics.md) for the full QIIME 2 
 │   ├── taxonomic_diversity.R   # Bar plots (Phylum/Family/Genus) + alpha diversity boxplots
 │   ├── sankey_plot.R           # Sankey taxonomic composition diagram
 │   └── heatmap_plot.R          # ASV heatmap with phylogenetic ordering
-├── data/                       # Input data files (see data/README.md)
+├── Data/                       # Input data files (see data/README.md)
 ```
 
 ---
