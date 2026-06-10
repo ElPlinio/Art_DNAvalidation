@@ -28,21 +28,17 @@ See [`README_bioinformatics.md`](README_bioinformatics.md) for the full QIIME 2 
 ### `taxonomic_diversity.R`
 Generates stacked bar plots of relative abundance at Phylum, Family, and Genus level, and paired boxplots of alpha diversity (Hill numbers q0, q1, q2) comparing commercial kit vs. non-commercial extraction methods.
 
-**Output:** `figures/barplot_phylum.png`, `figures/boxplot_alpha_div.png`
-
 **Key packages:** `qiime2R`, `hilldiv`, `hilldiv2`, `hillR`, `tidyverse`, `ggpubr`, `cowplot`, `ggh4x`
 
 ### `sankey_plot.R`
 Hierarchical Sankey diagram (Kingdom → Phylum → Class → Genus → Species) showing average bacterial relative abundance across all samples.
 
-**Output:** `Net13.html` (interactive)
 
 **Key packages:** `qiime2R`, `tidyverse`, `sankeyD3`, `plyr`
 
 ### `heatmap_plot.R`
 Heatmap of ASV relative abundances (12 discretised bins) with rows ordered by phylogenetic tree, annotated by Phylum and prevalence in each extraction method.
 
-**Output:** `heatmap_circlize_all_mod2.pdf`
 
 **Key packages:** `ComplexHeatmap`, `circlize`, `ape`, `qiime2R`, `tidyverse`, `viridis`, `RColorBrewer`
 
